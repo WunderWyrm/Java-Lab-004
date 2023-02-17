@@ -11,7 +11,7 @@
 * Store the result from square in an integer variable in main and print the result.
 
 ## Part 3: SimpleMethod3.java
-* Modify SimpleMethod3's square methods to use *Math.pow* instead of simple multiplying the numbers yourself.
+* Modify SimpleMethod3's square methods to use *Math.pow* instead of simply multiplying the numbers yourself.
 * Complete both the *integer* and the *double* square functions, this is called method overloading!
 
 ## Part 4: Radians.java
